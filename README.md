@@ -20,13 +20,13 @@ India's land measurement system can be incredibly complex, with traditional unit
 - 👉 **[Bigha to Acre Converter (State-wise)](https://landunitconverter.com/bigha-to-acre)**  
   Confused how many acres in 1 Bigha? We’ve got you covered — whether you’re in UP, Bihar, Punjab, or Rajasthan.
 
-- 👉 **[Square Feet to Square Meter Converter](https://landunitconverter.com/ft2-to-m2)**  
+- 👉 **[Square Feet to Square Meter Converter](https://landunitconverter.com/square-feet-to-square-meter)**  
   Perfect for property buyers and builders who need quick, reliable conversions for floor area.
 
-- 👉 **[Feet to Meters Converter](https://landunitconverter.com/convert/feet-to-meters)**  
+- 👉 **[Feet to Meters Converter](https://landunitconverter.com/feet-to-meters)**  
   A handy tool for architects, engineers, and students dealing with length conversions.
 
-- 👉 **[Feet to Inches Converter](https://landunitconverter.com/convert/feet-to-inches)**  
+- 👉 **[Feet to Inches Converter](https://landunitconverter.com/feet-to-inches)**  
   Simple and precise — convert any feet value into inches instantly.
 
 - 👉 **[Square Footage Calculator](https://landunitconverter.com/square-footage-calculator)**  
